@@ -2,8 +2,6 @@
 My first repository
 # **The Lord of the Rings** Trilogy
 
-![The Lord of the Rings](https://upload.wikimedia.org/wikipedia/en/0/0c/The_Lord_of_the_Rings_trilogy_logo.png)
-
 **Genre**: Fantasy, Adventure  
 **Director**: Peter Jackson  
 **Released**: 2001 - 2003  
